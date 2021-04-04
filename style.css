@@ -6,28 +6,28 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.header {
+.header-page {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.header img {
+.header-page img {
     width: 100%;
 }
 
-.header .header-link {
+.header-page .header-link {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .header {
+    .header-page {
         text-align: center;
     }
 }
 
-.main {
+.main-page {
     display: block;
     width: 500px;
     margin: 0 auto 0;
